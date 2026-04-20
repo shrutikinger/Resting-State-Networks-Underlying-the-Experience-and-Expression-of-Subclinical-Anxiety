@@ -1,11 +1,11 @@
-code_files 
+Data_Codes
 
 Overview
 
 The figures and the statistical results reported in the manuscript  are organized into separate subfolders within the main
 folder named:
 
-    code_files
+    Data_codes
 
 Each figure and the analyses associated with it has its own dedicated subfolder. These subfolders contain:
 
