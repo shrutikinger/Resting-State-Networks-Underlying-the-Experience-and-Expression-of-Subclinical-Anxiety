@@ -16,7 +16,7 @@
 %
 % AUTHOR: Shruti Kinger <shrutik@iiitd.ac.in>
 % DATE: 20 April 2026
-% MANUSCRIPT:
+% MANUSCRIPT: Intrinsic Brain Networks Underlying the Experience and Expression of Subclinical Anxiety
 % -------------------------------------------------------------------------
 
 clearvars;
