@@ -56,3 +56,8 @@ To generate the figures and reproduce the analyses:
 Notes
 For any questions regarding data organization or code execution, please contact Shruti Kinger at shrutik@iiitd.ac.in
 
+
+5. Usage and Attribution: This dataset is shared openly for reuse in research. If this data contributes to your work, please cite the accompanying paper: https://arxiv.org/abs/2605.00465
+
+6. Open-access data sharing for this project was made possible through funding from Professional Development Allowance of IIIT-Delhi and the Science and Engineering Research Board Core Research Grant to Dr. Mrinmoy Chakrabarty (SERB-CRG/2022/008119).
+
