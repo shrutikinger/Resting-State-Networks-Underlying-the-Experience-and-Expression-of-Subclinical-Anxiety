@@ -11,7 +11,7 @@ Each figure and the analyses associated with it has its own dedicated subfolder.
 
     
     A. MATLAB scripts for generating the figures
-    B. Associated .mat/.xlsx data files
+    B. Associated .mat/.xlsx/.nii data files 
     C. Statistical analyses corresponding to the results reported in the manuscript
 
 
@@ -27,7 +27,7 @@ To generate the figures and reproduce the analyses:
         cd('path_to_repository/Data_Codes/FigureX')
 
     Replace “FigureX” with the appropriate figure folder (e.g., Figure2,
-    Figure3, Figure4).
+    Figure3, FigureS1, FigureS2, FigureS3).
 
 3.  Run the main script within that folder:
 
