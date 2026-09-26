@@ -1,6 +1,6 @@
-%% FIGURE S2: Correlation between anxiety scores and Skin Conductance Response
+%% FIGURE S3: Correlation between anxiety scores and Skin Conductance Response
 % -------------------------------------------------------------------------
-% This script reproduces Figure S2 from the manuscript and completes:
+% This script reproduces Figure S3 from the manuscript and completes:
 %   - Condition-specific visualization 
 %   - Statistical comparison between the conditions 
 %   - Figure export (300 dpi)
@@ -13,7 +13,7 @@
 %
 %
 % OUTPUT:
-%   - Figure replicating Figure S2
+%   - Figure replicating Figure S3
 %   - Statistical results 
 %
 % AUTHOR: Shruti Kinger <shrutik@iiitd.ac.in>
